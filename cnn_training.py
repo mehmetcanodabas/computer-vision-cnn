@@ -1,6 +1,8 @@
 # Project: Convolutional Neural Networks for Visual Recognition
 # Chair of Digital Signal Processing and Circuit Technology
 # Computer Vision Laboratory
+# Note: Source code is not shared due to institutional restrictions.
+#       This file only contains architecture-level explanations.
 
 import os
 import time
