@@ -1,4 +1,4 @@
-# Project: Convolutional Neural Networks for Visual Recognition
+# Project: Implementation of Convolutional Neural Networks for Visual Recognition
 # Chair of Digital Signal Processing and Circuit Technology
 # Computer Vision Laboratory
 # Note: Source code is not shared due to institutional restrictions.
