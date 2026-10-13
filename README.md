@@ -11,4 +11,3 @@ This repository only contains the architecture summary, methodology, and overall
 **⚠️[Project summary (Pdf)](docs/project-summary.pdf): Detailed approach, and dataset information are provided in this PDF.**
 
 **Keywords:** Computer Vision, Deep Learning, Convolutional Neural Networks (CNN), Image Classification, CIFAR-10, PyTorch, Neural Network Architecture, Model Training, Hyperparameter Tuning, Model Evaluation.
-
